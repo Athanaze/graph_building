@@ -1,0 +1,3904 @@
+{
+  "101": {
+    "FR": "Cst.",
+    "DE": "BV",
+    "IT": "Cost."
+  },
+  "120": {
+    "FR": "LMSI",
+    "DE": "BWIS",
+    "IT": "LMSI"
+  },
+  "120.52": {
+    "FR": "OMAH",
+    "DE": "VVMH",
+    "IT": "OMPAH"
+  },
+  "120.72": {
+    "FR": "OPF",
+    "DE": "VSB",
+    "IT": "OPCF"
+  },
+  "121": {
+    "FR": "LRens",
+    "DE": "NDG",
+    "IT": "LAIn"
+  },
+  "121.1": {
+    "FR": "ORens",
+    "DE": "NDV"
+  },
+  "121.2": {
+    "FR": "OSIS-SRC",
+    "DE": "VIS-NDB",
+    "IT": "OSIME-SIC"
+  },
+  "121.3": {
+    "FR": "OSRens",
+    "DE": "VAND",
+    "IT": "OVAIn"
+  },
+  "124": {
+    "FR": "OESS",
+    "DE": "VES",
+    "IT": "OIIS"
+  },
+  "128": {
+    "FR": "LSI",
+    "DE": "ISG",
+    "IT": "LSIn"
+  },
+  "128.1": {
+    "FR": "OSI",
+    "DE": "ISV",
+    "IT": "OSIn"
+  },
+  "128.31": {
+    "FR": "OCSP",
+    "DE": "VPSP",
+    "IT": "OCSP"
+  },
+  "128.41": {
+    "FR": "OPSEnt",
+    "DE": "VBSV",
+    "IT": "OPSAz"
+  },
+  "128.51": {
+    "FR": "OCyS",
+    "DE": "CSV",
+    "IT": "OCS"
+  },
+  "131.212": {
+    "FR": "ConstC",
+    "DE": "KV",
+    "IT": "CostC"
+  },
+  "131.234": {
+    "FR": "Cst-GE",
+    "DE": "KV-GE",
+    "IT": "Cost.-GE"
+  },
+  "138.1": {
+    "FR": "LFPC",
+    "DE": "BGMK",
+    "IT": "LFPC"
+  },
+  "141.0": {
+    "FR": "LN",
+    "DE": "BüG",
+    "IT": "LCit"
+  },
+  "141.01": {
+    "FR": "OLN",
+    "DE": "BüV",
+    "IT": "OCit"
+  },
+  "142.20": {
+    "FR": "LEI",
+    "DE": "AIG",
+    "IT": "LStrI"
+  },
+  "142.201": {
+    "FR": "OASA",
+    "DE": "VZAE",
+    "IT": "OASA"
+  },
+  "142.203": {
+    "FR": "OLCP",
+    "DE": "VFP",
+    "IT": "OLCP"
+  },
+  "142.204": {
+    "FR": "OEV",
+    "DE": "VEV",
+    "IT": "OEV"
+  },
+  "142.205": {
+    "FR": "OIE",
+    "DE": "VIntA",
+    "IT": "OIntS"
+  },
+  "142.206": {
+    "FR": "OEES",
+    "DE": "EESV",
+    "IT": "OEES"
+  },
+  "142.209": {
+    "FR": "Oem-LEI",
+    "DE": "GebV-AIG",
+    "IT": "OEmol-LStrI"
+  },
+  "142.281": {
+    "FR": "OERE",
+    "DE": "VVWAL",
+    "IT": "OEAE"
+  },
+  "142.31": {
+    "FR": "LAsi",
+    "DE": "AsylG",
+    "IT": "LAsi"
+  },
+  "142.311": {
+    "FR": "OA 1",
+    "DE": "AsylV 1",
+    "IT": "OAsi 1"
+  },
+  "142.312": {
+    "FR": "OA 2",
+    "DE": "AsylV 2",
+    "IT": "OAsi 2"
+  },
+  "142.314": {
+    "FR": "OA 3",
+    "DE": "AsylV 3",
+    "IT": "OAsi 3"
+  },
+  "142.316": {
+    "FR": "OAPA",
+    "DE": "VPGA",
+    "IT": "OAPA"
+  },
+  "142.51": {
+    "FR": "LDEA",
+    "DE": "BGIAA",
+    "IT": "LSISA"
+  },
+  "142.512": {
+    "FR": "OVIS",
+    "DE": "VISV",
+    "IT": "OVIS"
+  },
+  "143.1": {
+    "FR": "LDI",
+    "DE": "AwG",
+    "IT": "LDI"
+  },
+  "143.11": {
+    "FR": "OLDI",
+    "DE": "VAwG",
+    "IT": "ODI"
+  },
+  "143.116": {
+    "FR": "OOLDI",
+    "DE": "VVAwG",
+    "IT": "O-ODI-DFAE"
+  },
+  "143.5": {
+    "FR": "ODV",
+    "DE": "RDV",
+    "IT": "ODV"
+  },
+  "151.1": {
+    "FR": "LEg",
+    "DE": "GlG",
+    "IT": "LPar"
+  },
+  "151.3": {
+    "FR": "LHand",
+    "DE": "BehiG",
+    "IT": "LDis"
+  },
+  "151.31": {
+    "FR": "OHand",
+    "DE": "BehiV",
+    "IT": "ODis"
+  },
+  "151.34": {
+    "FR": "OThand",
+    "DE": "VböV",
+    "IT": "OTDis"
+  },
+  "151.342": {
+    "FR": "OETHand",
+    "DE": "VAböV",
+    "IT": "ORTDis"
+  },
+  "152.1": {
+    "FR": "LAr",
+    "DE": "BGA",
+    "IT": "LAr"
+  },
+  "152.11": {
+    "FR": "OLAr",
+    "DE": "VBGA",
+    "IT": "OLAr"
+  },
+  "152.3": {
+    "FR": "LTrans",
+    "DE": "BGÖ",
+    "IT": "LTras"
+  },
+  "152.31": {
+    "FR": "OTrans",
+    "DE": "VBGÖ",
+    "IT": "OTras"
+  },
+  "161.1": {
+    "FR": "LDP",
+    "DE": "BPR",
+    "IT": "LDP"
+  },
+  "161.11": {
+    "FR": "ODP",
+    "DE": "VPR",
+    "IT": "ODP"
+  },
+  "161.116": {
+    "FR": "OVotE",
+    "DE": "VEleS",
+    "IT": "OVE"
+  },
+  "161.18": {
+    "FR": "OFipo",
+    "DE": "VPofi",
+    "IT": "OFiPo"
+  },
+  "170.32": {
+    "FR": "LRCF",
+    "DE": "VG",
+    "IT": "LResp"
+  },
+  "170.512": {
+    "FR": "LPubl",
+    "DE": "PublG",
+    "IT": "LPubb"
+  },
+  "171.10": {
+    "FR": "LParl",
+    "DE": "ParlG",
+    "IT": "LParl"
+  },
+  "171.115": {
+    "FR": "OLPA",
+    "DE": "ParlVV",
+    "IT": "Oparl"
+  },
+  "171.117": {
+    "FR": "ORInt",
+    "DE": "VPiB",
+    "IT": "ORInt"
+  },
+  "171.13": {
+    "FR": "RCN",
+    "DE": "GRN",
+    "IT": "RCN"
+  },
+  "171.14": {
+    "FR": "RCE",
+    "DE": "GRS",
+    "IT": "RCS"
+  },
+  "171.21": {
+    "FR": "LMAP",
+    "DE": "PRG",
+    "IT": "LI"
+  },
+  "171.211": {
+    "FR": "OMAP",
+    "DE": "VPRG"
+  },
+  "172.010": {
+    "FR": "LOGA",
+    "DE": "RVOG",
+    "IT": "LOGA"
+  },
+  "172.019": {
+    "FR": "LMETA",
+    "DE": "EMBAG",
+    "IT": "LMeCA"
+  },
+  "172.021": {
+    "FR": "PA",
+    "DE": "VwVG",
+    "IT": "PA"
+  },
+  "172.061": {
+    "FR": "LCo",
+    "DE": "VlG",
+    "IT": "LCo"
+  },
+  "172.071": {
+    "FR": "OAcCP",
+    "DE": "MAkkV",
+    "IT": "OAGio"
+  },
+  "172.081": {
+    "FR": "OSLing",
+    "DE": "SpDV",
+    "IT": "OSLing"
+  },
+  "172.091": {
+    "FR": "OCPPME",
+    "DE": "VKP-KMU",
+    "IT": "OCPPMI"
+  },
+  "172.111": {
+    "FR": "Org CF",
+    "DE": "OV-BR",
+    "IT": "OOrg-CF"
+  },
+  "172.220.111.3": {
+    "FR": "OPers",
+    "DE": "BPV",
+    "IT": "OPers"
+  },
+  "172.220.111.31": {
+    "FR": "O-OPers",
+    "DE": "VBPV",
+    "IT": "O-OPers"
+  },
+  "172.220.111.310.2": {
+    "FR": "OPersMil",
+    "DE": "V Mil Pers",
+    "IT": "OPers mil"
+  },
+  "172.220.111.343.3": {
+    "FR": "O-OPers-DFAE",
+    "DE": "VBPV-EDA",
+    "IT": "O-OPers-DFAE"
+  },
+  "172.220.111.35": {
+    "FR": "ORCPP",
+    "DE": "VPABP",
+    "IT": "OPPCPers"
+  },
+  "172.220.111.4": {
+    "FR": "OPDC",
+    "DE": "BPDV",
+    "IT": "OPDPers"
+  },
+  "172.220.111.9": {
+    "FR": "OPers-PDHH",
+    "DE": "PVFMH",
+    "IT": "OPers-PRA"
+  },
+  "172.220.111.91": {
+    "FR": "OPers-PDHH-DDPS",
+    "DE": "PVFMH-VBS",
+    "IT": "OPers-PRA-DDPS"
+  },
+  "172.220.113.42": {
+    "FR": "OPD-EPF",
+    "DE": "PDV-ETH",
+    "IT": "OPDP-PF"
+  },
+  "172.220.141.1": {
+    "FR": "RPEC",
+    "DE": "VRAB",
+    "IT": "RPIC"
+  },
+  "172.220.141.2": {
+    "FR": "RPBC",
+    "DE": "VRHB",
+    "IT": "RPBC"
+  },
+  "172.220.142.1": {
+    "FR": "RP-EPF 1",
+    "DE": "VR-ETH 1",
+    "IT": "RP-PF 1"
+  },
+  "172.220.142.2": {
+    "FR": "RP-EPF 2",
+    "DE": "VR-ETH 2",
+    "IT": "RP-PF 2"
+  },
+  "172.220.143.1": {
+    "FR": "RP-Swissmedic",
+    "DE": "VR-Swissmedic",
+    "IT": "RP-Swissmedic"
+  },
+  "172.220.143.2": {
+    "FR": "RP-IPI",
+    "DE": "VR-IGE",
+    "IT": "RP-IPI"
+  },
+  "172.220.143.3": {
+    "FR": "RP-ASR",
+    "DE": "VR-RAB",
+    "IT": "RP-ASR"
+  },
+  "172.220.143.4": {
+    "FR": "RP-IFFP",
+    "DE": "VR-EHB",
+    "IT": "RP-IUFFP"
+  },
+  "172.220.143.5": {
+    "FR": "RP-FINMA",
+    "DE": "VR-FINMA",
+    "IT": "RP-FINMA"
+  },
+  "172.220.143.6": {
+    "FR": "RP-IFSN",
+    "DE": "VR-ENSI",
+    "IT": "RP-IFSN"
+  },
+  "172.220.143.7": {
+    "FR": "RP-PUBLICA",
+    "DE": "VR-PUBLICA",
+    "IT": "RP-PUBLICA"
+  },
+  "172.220.143.8": {
+    "FR": "RP-MNS",
+    "DE": "VR-SNM",
+    "IT": "RP-MNS"
+  },
+  "172.220.143.9": {
+    "FR": "RP-METAS",
+    "DE": "VR-METAS",
+    "IT": "RP-METAS"
+  },
+  "173.110": {
+    "FR": "LTF",
+    "DE": "BGG",
+    "IT": "LTF"
+  },
+  "173.32": {
+    "FR": "LTAF",
+    "DE": "VGG",
+    "IT": "LTAF"
+  },
+  "173.41": {
+    "FR": "LTFB",
+    "DE": "PatGG",
+    "IT": "LTFB"
+  },
+  "173.71": {
+    "FR": "LOAP",
+    "DE": "StBOG",
+    "IT": "LOAP"
+  },
+  "191.11": {
+    "FR": "OEmol-DFAE",
+    "DE": "GebV-EDA",
+    "IT": "OEm-DFAE"
+  },
+  "192.12": {
+    "FR": "LEH",
+    "DE": "GSG",
+    "IT": "LSO"
+  },
+  "192.121": {
+    "FR": "OLEH",
+    "DE": "V-GSG",
+    "IT": "OSOsp"
+  },
+  "192.126": {
+    "FR": "ODPr",
+    "DE": "PHV",
+    "IT": "ODPr"
+  },
+  "195.1": {
+    "FR": "LSEtr",
+    "DE": "ASG",
+    "IT": "LSEst"
+  },
+  "195.11": {
+    "FR": "OSEtr",
+    "DE": "V-ASG",
+    "IT": "OSEst"
+  },
+  "196.1": {
+    "FR": "LVP",
+    "DE": "SRVG",
+    "IT": "LPV"
+  },
+  "210": {
+    "FR": "CC",
+    "DE": "ZGB",
+    "IT": "CC"
+  },
+  "211.231": {
+    "FR": "LPart",
+    "DE": "PartG",
+    "IT": "LUD"
+  },
+  "220": {
+    "FR": "CO",
+    "DE": "OR",
+    "IT": "CO"
+  },
+  "221.301": {
+    "FR": "LFus",
+    "DE": "FusG",
+    "IT": "LFus"
+  },
+  "221.302": {
+    "FR": "LSR",
+    "DE": "RAG",
+    "IT": "LSR"
+  },
+  "221.411": {
+    "FR": "ORC",
+    "DE": "HRegV",
+    "IT": "ORC"
+  },
+  "221.431": {
+    "FR": "Olico",
+    "DE": "GeBüV",
+    "IT": "Olc"
+  },
+  "221.432": {
+    "FR": "ONCR",
+    "DE": "VASR",
+    "IT": "ONCR"
+  },
+  "221.433": {
+    "FR": "ODiTr",
+    "DE": "VSoTr",
+    "IT": "ODiT"
+  },
+  "231.1": {
+    "FR": "LDA",
+    "DE": "URG",
+    "IT": "LDA"
+  },
+  "231.11": {
+    "FR": "ODAu",
+    "DE": "URV",
+    "IT": "ODAu"
+  },
+  "231.2": {
+    "FR": "LTo",
+    "DE": "ToG",
+    "IT": "LTo"
+  },
+  "231.21": {
+    "FR": "OTo",
+    "DE": "ToV",
+    "IT": "OTo"
+  },
+  "232.11": {
+    "FR": "LPM",
+    "DE": "MSchG",
+    "IT": "LPM"
+  },
+  "232.111": {
+    "FR": "OPM",
+    "DE": "MSchV",
+    "IT": "OPM"
+  },
+  "232.12": {
+    "FR": "LDes",
+    "DE": "DesG",
+    "IT": "LDes"
+  },
+  "232.121": {
+    "FR": "ODes",
+    "DE": "DesV",
+    "IT": "ODes"
+  },
+  "232.14": {
+    "FR": "LBI",
+    "DE": "PatG",
+    "IT": "LBI"
+  },
+  "232.141": {
+    "FR": "OBI",
+    "DE": "PatV",
+    "IT": "OBI"
+  },
+  "232.148": {
+    "FR": "OTa-IPI",
+    "DE": "GebV-IGE",
+    "IT": "OTa-IPI"
+  },
+  "232.21": {
+    "FR": "LPAP",
+    "DE": "WSchG",
+    "IT": "LPSt"
+  },
+  "232.211": {
+    "FR": "OPAP",
+    "DE": "WSchV",
+    "IT": "OPSt"
+  },
+  "235.1": {
+    "FR": "LPD",
+    "DE": "DSG",
+    "IT": "LPD"
+  },
+  "235.11": {
+    "FR": "OPDo",
+    "DE": "DSV",
+    "IT": "OPDa"
+  },
+  "235.13": {
+    "FR": "OCPD",
+    "DE": "VDSZ",
+    "IT": "OCPD"
+  },
+  "235.22": {
+    "FR": "O E-VERA",
+    "DE": "VEVERA"
+  },
+  "241": {
+    "FR": "LCD",
+    "DE": "UWG",
+    "IT": "LCSl"
+  },
+  "251": {
+    "FR": "LCart",
+    "DE": "KG",
+    "IT": "LCart"
+  },
+  "251.1": {
+    "FR": "RI-COMCO",
+    "DE": "GR-WEKO",
+    "IT": "RI-COMCO"
+  },
+  "251.2": {
+    "FR": "OEmol-LCart",
+    "DE": "GebV-KG",
+    "IT": "OEm-LCart"
+  },
+  "251.5": {
+    "FR": "OS LCart",
+    "DE": "SVKG",
+    "IT": "OS LCart"
+  },
+  "251.6": {
+    "FR": "OAVAuto",
+    "DE": "KFZV",
+    "IT": "OAuto"
+  },
+  "272": {
+    "FR": "CPC",
+    "DE": "ZPO",
+    "IT": "CPC"
+  },
+  "272.1": {
+    "FR": "OCEl-PCPP",
+    "DE": "VeÜ-ZSSV",
+    "IT": "OCE-PCPE"
+  },
+  "272.2": {
+    "FR": "OMETr",
+    "DE": "VEMZ",
+    "IT": "OSTAC"
+  },
+  "273": {
+    "FR": "PCF",
+    "DE": "BZP",
+    "IT": "PC"
+  },
+  "281.1": {
+    "FR": "LP",
+    "DE": "SchKG",
+    "IT": "LEF"
+  },
+  "281.11": {
+    "FR": "OHS-LP",
+    "DE": "OAV-SchKG",
+    "IT": "OAV-LEF"
+  },
+  "281.31": {
+    "FR": "Oform",
+    "DE": "VFRR",
+    "IT": "Rform"
+  },
+  "281.32": {
+    "FR": "OAOF",
+    "DE": "KOV",
+    "IT": "RUF"
+  },
+  "281.33": {
+    "FR": "OCDoc",
+    "DE": "VABK",
+    "IT": "RCDoc"
+  },
+  "281.35": {
+    "FR": "OELP",
+    "DE": "GebV SchKG",
+    "IT": "OTLEF"
+  },
+  "281.41": {
+    "FR": "OPC",
+    "DE": "VVAG",
+    "IT": "ODiC"
+  },
+  "281.42": {
+    "FR": "ORFI",
+    "DE": "VZG",
+    "IT": "RFF"
+  },
+  "281.51": {
+    "FR": "OSAss",
+    "DE": "VPAV",
+    "IT": "RPAss"
+  },
+  "281.52": {
+    "FR": "OFCoop",
+    "DE": "VGeK",
+    "IT": "RFCoop"
+  },
+  "291": {
+    "FR": "LDIP",
+    "DE": "IPRG",
+    "IT": "LDIP"
+  },
+  "311.0": {
+    "FR": "CP",
+    "DE": "StGB",
+    "IT": "CP"
+  },
+  "311.01": {
+    "FR": "O-CP-CPM-DPMin",
+    "DE": "V-StGB-MStG-JStG",
+    "IT": "OCP-CPM-DPMin"
+  },
+  "311.1": {
+    "FR": "DPMin",
+    "DE": "JStG",
+    "IT": "DPMin"
+  },
+  "311.6": {
+    "FR": "LIDV",
+    "DE": "BVVG",
+    "IT": "LDDV"
+  },
+  "312.0": {
+    "FR": "CPP",
+    "DE": "StPO",
+    "IT": "CPP"
+  },
+  "312.1": {
+    "FR": "PPMin",
+    "DE": "JStPO",
+    "IT": "PPMin"
+  },
+  "312.2": {
+    "FR": "Ltém",
+    "DE": "ZeugSG",
+    "IT": "LPTes"
+  },
+  "312.21": {
+    "FR": "OTém",
+    "DE": "ZeugSV",
+    "IT": "OPTes"
+  },
+  "312.4": {
+    "FR": "LVPC",
+    "DE": "TEVG",
+    "IT": "LRVC"
+  },
+  "312.5": {
+    "FR": "LAVI",
+    "DE": "OHG",
+    "IT": "LAV"
+  },
+  "312.51": {
+    "FR": "OAVI",
+    "DE": "OHV",
+    "IT": "OAVI"
+  },
+  "312.81": {
+    "FR": "OISec",
+    "DE": "VVE",
+    "IT": "OFIM"
+  },
+  "313.0": {
+    "FR": "DPA",
+    "DE": "VStrR",
+    "IT": "DPA"
+  },
+  "313.041": {
+    "FR": "OSIP-OFDF",
+    "DE": "IStrV-BAZG",
+    "IT": "OSIP-UDSC"
+  },
+  "314.1": {
+    "FR": "LAO",
+    "DE": "OBG",
+    "IT": "LMD"
+  },
+  "314.11": {
+    "FR": "OAO",
+    "DE": "OBV",
+    "IT": "OMD"
+  },
+  "321.0": {
+    "FR": "CPM",
+    "DE": "MStG",
+    "IT": "CPM"
+  },
+  "322.1": {
+    "FR": "PPM",
+    "DE": "MStP",
+    "IT": "PPM"
+  },
+  "322.2": {
+    "FR": "OJPM",
+    "DE": "MStV",
+    "IT": "OGPM"
+  },
+  "330": {
+    "FR": "LCJ",
+    "DE": "StReG",
+    "IT": "LCaGi"
+  },
+  "331": {
+    "FR": "OCJ",
+    "DE": "StReV",
+    "IT": "OCaGi"
+  },
+  "341": {
+    "FR": "LPPM",
+    "DE": "LSMG",
+    "IT": "LPPM"
+  },
+  "341.1": {
+    "FR": "OPPM",
+    "DE": "LSMV",
+    "IT": "OPPM"
+  },
+  "351.1": {
+    "FR": "EIMP",
+    "DE": "IRSG",
+    "IT": "AIMP"
+  },
+  "351.11": {
+    "FR": "OEIMP",
+    "DE": "IRSV",
+    "IT": "OAIMP"
+  },
+  "351.6": {
+    "FR": "LCPI",
+    "DE": "ZISG",
+    "IT": "LCPI"
+  },
+  "351.93": {
+    "FR": "LTEJUS",
+    "DE": "BG-RVUS",
+    "IT": "LTAGSU"
+  },
+  "360": {
+    "FR": "LOC",
+    "DE": "ZentG",
+    "IT": "LUC"
+  },
+  "361": {
+    "FR": "LSIP",
+    "DE": "BPI",
+    "IT": "LSIP"
+  },
+  "362.2": {
+    "FR": "LEIS",
+    "DE": "SIAG",
+    "IT": "LSIS"
+  },
+  "364": {
+    "FR": "LUsC",
+    "DE": "ZAG",
+    "IT": "LCoe"
+  },
+  "364.3": {
+    "FR": "OLUsC",
+    "DE": "ZAV",
+    "IT": "OCoe"
+  },
+  "410.2": {
+    "FR": "LCESF",
+    "DE": "BiZG",
+    "IT": "LCSFS"
+  },
+  "410.21": {
+    "FR": "CCoop-ESF",
+    "DE": "ZSAV-BiZ",
+    "IT": "CColl-SFS"
+  },
+  "412.10": {
+    "FR": "LFPr",
+    "DE": "BBG",
+    "IT": "LFPr"
+  },
+  "412.101": {
+    "FR": "OFPr",
+    "DE": "BBV",
+    "IT": "OFPr"
+  },
+  "412.101.221.49": {
+    "FR": "CFC",
+    "DE": "EFZ",
+    "IT": "AFC"
+  },
+  "413.11": {
+    "FR": "ORM",
+    "DE": "MAV",
+    "IT": "ORM"
+  },
+  "414.20": {
+    "FR": "LEHE",
+    "DE": "HFKG",
+    "IT": "LPSU"
+  },
+  "414.201": {
+    "FR": "O-LEHE",
+    "DE": "V-HFKG",
+    "IT": "O-LPSU"
+  },
+  "414.205": {
+    "FR": "CCoop-HE",
+    "DE": "ZSAV-HS",
+    "IT": "ConSU"
+  },
+  "414.51": {
+    "FR": "LCMIF",
+    "DE": "BIZMB",
+    "IT": "LCMIF"
+  },
+  "414.513": {
+    "FR": "OCMIF",
+    "DE": "VIZMB",
+    "IT": "OCMIF"
+  },
+  "415.0": {
+    "FR": "LESp",
+    "DE": "SpoFöG",
+    "IT": "LPSpo"
+  },
+  "415.01": {
+    "FR": "OESp",
+    "DE": "SpoFöV",
+    "IT": "OPSpo"
+  },
+  "415.011": {
+    "FR": "OPESp",
+    "DE": "VSpoFöP",
+    "IT": "OPPSpo"
+  },
+  "415.012": {
+    "FR": "O-HEFSM",
+    "DE": "EHSM-V",
+    "IT": "O-SUFSM"
+  },
+  "415.013": {
+    "FR": "OEmol-OFSPO",
+    "DE": "GebV-BASPO",
+    "IT": "OEm UFSPO"
+  },
+  "415.1": {
+    "FR": "LSIS",
+    "DE": "IBSG",
+    "IT": "LSISpo"
+  },
+  "415.11": {
+    "FR": "OSIS",
+    "DE": "IBSV",
+    "IT": "OSISpo"
+  },
+  "418.0": {
+    "FR": "LESE",
+    "DE": "SSchG",
+    "IT": "LSSE"
+  },
+  "418.01": {
+    "FR": "OESE",
+    "DE": "SSchV",
+    "IT": "OSSE"
+  },
+  "418.013": {
+    "FR": "OESE-DFI",
+    "DE": "SSchV-EDI",
+    "IT": "OSSE-DFI"
+  },
+  "419.1": {
+    "FR": "LFCo",
+    "DE": "WeBiG",
+    "IT": "LFCo"
+  },
+  "419.11": {
+    "FR": "OFCo",
+    "DE": "WeBiV",
+    "IT": "OFCo"
+  },
+  "420.1": {
+    "FR": "LERI",
+    "DE": "FIFG",
+    "IT": "LPRI"
+  },
+  "420.11": {
+    "FR": "O-LERI",
+    "DE": "V-FIFG",
+    "IT": "O-LPRI"
+  },
+  "420.111": {
+    "FR": "O-LERI-DEFR",
+    "DE": "V-FIFG-WBF",
+    "IT": "O-LPRI-DEFR"
+  },
+  "420.125": {
+    "FR": "OANS",
+    "DE": "NARV",
+    "IT": "OPANS"
+  },
+  "420.126": {
+    "FR": "OMPRI",
+    "DE": "FIPBV",
+    "IT": "OMPRI"
+  },
+  "420.141": {
+    "FR": "FNS",
+    "DE": "SNF",
+    "IT": "FNS"
+  },
+  "420.2": {
+    "FR": "LASEI",
+    "DE": "SAFIG",
+    "IT": "LASPI"
+  },
+  "425.1": {
+    "FR": "LISDC",
+    "DE": "SIRG",
+    "IT": "LISDC"
+  },
+  "429.1": {
+    "FR": "LMét",
+    "DE": "MetG",
+    "IT": "LMet"
+  },
+  "429.11": {
+    "FR": "OMét",
+    "DE": "MetV",
+    "IT": "OMet"
+  },
+  "431.01": {
+    "FR": "LSF",
+    "DE": "BStatG",
+    "IT": "LStat"
+  },
+  "431.011": {
+    "FR": "OStatF",
+    "DE": "BStatV",
+    "IT": "OStatF"
+  },
+  "431.02": {
+    "FR": "LHR",
+    "DE": "RHG",
+    "IT": "LArRa"
+  },
+  "431.021": {
+    "FR": "OHR",
+    "DE": "RHV",
+    "IT": "OArRa"
+  },
+  "431.03": {
+    "FR": "LIDE",
+    "DE": "UIDG",
+    "IT": "LIDI"
+  },
+  "431.031": {
+    "FR": "OIDE",
+    "DE": "UIDV",
+    "IT": "OIDI"
+  },
+  "431.835": {
+    "FR": "OSAA",
+    "DE": "VSUV",
+    "IT": "OSAI"
+  },
+  "431.841": {
+    "FR": "ORegBL",
+    "DE": "VGWR",
+    "IT": "OREA"
+  },
+  "431.903": {
+    "FR": "OREE",
+    "DE": "BURV",
+    "IT": "ORIS"
+  },
+  "432.21": {
+    "FR": "LBNS",
+    "DE": "NBibG",
+    "IT": "LBNS"
+  },
+  "432.211": {
+    "FR": "OBNS",
+    "DE": "NBibV",
+    "IT": "OBNS"
+  },
+  "432.219": {
+    "FR": "OEmol-BN",
+    "DE": "GebV-NBib",
+    "IT": "OEm-BN"
+  },
+  "432.22": {
+    "FR": "OBiG",
+    "DE": "BiGV",
+    "IT": "OBiG"
+  },
+  "432.30": {
+    "FR": "LMC",
+    "DE": "MSG",
+    "IT": "LMC"
+  },
+  "441.1": {
+    "FR": "LLC",
+    "DE": "SpG",
+    "IT": "LLing"
+  },
+  "441.11": {
+    "FR": "OLang",
+    "DE": "SpV",
+    "IT": "OLing"
+  },
+  "442.1": {
+    "FR": "LEC",
+    "DE": "KFG",
+    "IT": "LPCu"
+  },
+  "442.11": {
+    "FR": "OLEC",
+    "DE": "KFV",
+    "IT": "OPCu"
+  },
+  "443.1": {
+    "FR": "LCin",
+    "DE": "FiG",
+    "IT": "LCin"
+  },
+  "443.11": {
+    "FR": "OCin",
+    "DE": "FiV",
+    "IT": "OCin"
+  },
+  "443.113": {
+    "FR": "OECin",
+    "DE": "FiFV",
+    "IT": "OPCin"
+  },
+  "443.122": {
+    "FR": "OPICin",
+    "DE": "IPFiV",
+    "IT": "OPICin"
+  },
+  "443.14": {
+    "FR": "OQICin",
+    "DE": "FQIV",
+    "IT": "OQIC"
+  },
+  "444.1": {
+    "FR": "LTBC",
+    "DE": "KGTG",
+    "IT": "LTBC"
+  },
+  "444.11": {
+    "FR": "OTBC",
+    "DE": "KGTV",
+    "IT": "OTBC"
+  },
+  "444.12": {
+    "FR": "OIBC",
+    "DE": "KGVV",
+    "IT": "OEBC"
+  },
+  "444.21": {
+    "FR": "OCPCP",
+    "DE": "VUKBK",
+    "IT": "OCIPP"
+  },
+  "446.1": {
+    "FR": "LEEJ",
+    "DE": "KJFG",
+    "IT": "LPAG"
+  },
+  "446.11": {
+    "FR": "OEEJ",
+    "DE": "KJFV",
+    "IT": "OPAG"
+  },
+  "446.2": {
+    "FR": "LPMFJ",
+    "DE": "JSFVG",
+    "IT": "LPMFV"
+  },
+  "446.21": {
+    "FR": "OPMFJ",
+    "DE": "JSFVV",
+    "IT": "OPMFV"
+  },
+  "451": {
+    "FR": "LPN",
+    "DE": "NHG",
+    "IT": "LPN"
+  },
+  "451.1": {
+    "FR": "OPN",
+    "DE": "NHV",
+    "IT": "OPN"
+  },
+  "451.11": {
+    "FR": "OIFP",
+    "DE": "VBLN",
+    "IT": "OIFP"
+  },
+  "451.12": {
+    "FR": "OISOS",
+    "DE": "VISOS",
+    "IT": "OISOS"
+  },
+  "451.13": {
+    "FR": "OIVS",
+    "DE": "VIVS",
+    "IT": "OIVS"
+  },
+  "451.34": {
+    "FR": "OBat",
+    "DE": "AlgV",
+    "IT": "OSRA"
+  },
+  "451.36": {
+    "FR": "OParcs",
+    "DE": "PäV",
+    "IT": "OPar"
+  },
+  "451.37": {
+    "FR": "OPPPS",
+    "DE": "TwwV",
+    "IT": "OPPS"
+  },
+  "451.61": {
+    "FR": "ONag",
+    "DE": "NagV",
+    "IT": "ONag"
+  },
+  "453": {
+    "FR": "LCITES",
+    "DE": "BGCITES",
+    "IT": "LF-CITES"
+  },
+  "453.0": {
+    "FR": "OCITES",
+    "DE": "VCITES",
+    "IT": "O-CITES"
+  },
+  "455": {
+    "FR": "LPA",
+    "DE": "TSchG",
+    "IT": "LPAn"
+  },
+  "455.1": {
+    "FR": "OPAn",
+    "DE": "TSchV",
+    "IT": "OPAn"
+  },
+  "510.10": {
+    "FR": "LAAM",
+    "DE": "MG",
+    "IT": "LM"
+  },
+  "510.291": {
+    "FR": "OSRA",
+    "DE": "V-NDA",
+    "IT": "O-SIEs"
+  },
+  "510.292": {
+    "FR": "OGE",
+    "DE": "VEKF",
+    "IT": "OCGE"
+  },
+  "510.30": {
+    "FR": "OAdma",
+    "DE": "VBVA",
+    "IT": "OAE-AF"
+  },
+  "510.301": {
+    "FR": "OAA",
+    "DE": "VVA",
+    "IT": "OAE"
+  },
+  "510.32": {
+    "FR": "OPoA",
+    "DE": "VPA",
+    "IT": "OPPE"
+  },
+  "510.51": {
+    "FR": "OAPCM",
+    "DE": "MPV",
+    "IT": "OAPCM"
+  },
+  "510.511": {
+    "FR": "OMHSI",
+    "DE": "VAI",
+    "IT": "OMFSI"
+  },
+  "510.514": {
+    "FR": "OPATE",
+    "DE": "VWS",
+    "IT": "OPAT"
+  },
+  "510.62": {
+    "FR": "LGéo",
+    "DE": "GeoIG",
+    "IT": "LGI"
+  },
+  "510.620": {
+    "FR": "OGéo",
+    "DE": "GeoIV",
+    "IT": "OGI"
+  },
+  "510.624": {
+    "FR": "OGN",
+    "DE": "LGeoIV",
+    "IT": "OGN"
+  },
+  "510.625": {
+    "FR": "ONGéo",
+    "DE": "GeoNV",
+    "IT": "ONGeo"
+  },
+  "510.626": {
+    "FR": "OMN",
+    "DE": "LVV",
+    "IT": "OMN"
+  },
+  "510.710": {
+    "FR": "OCM",
+    "DE": "VMSV",
+    "IT": "OCSM"
+  },
+  "510.755": {
+    "FR": "ONM",
+    "DE": "VMSch",
+    "IT": "ONM"
+  },
+  "510.81": {
+    "FR": "OCMI",
+    "DE": "VIMK",
+    "IT": "OCMI"
+  },
+  "510.91": {
+    "FR": "LSIA",
+    "DE": "MIG",
+    "IT": "LSIM"
+  },
+  "510.911": {
+    "FR": "OSIAr",
+    "DE": "MIV",
+    "IT": "OSIM"
+  },
+  "510.921": {
+    "FR": "OCMil",
+    "DE": "MCAV",
+    "IT": "OCDM"
+  },
+  "511.12": {
+    "FR": "OAMAS",
+    "DE": "VMBM",
+    "IT": "OAMM"
+  },
+  "512.15": {
+    "FR": "OInstr pré",
+    "DE": "VAusb",
+    "IT": "OISP"
+  },
+  "512.151": {
+    "FR": "OInstr prém DDPS",
+    "DE": "VAusb-VBS",
+    "IT": "OISP-DDPS"
+  },
+  "512.21": {
+    "FR": "OMi",
+    "DE": "VMDP",
+    "IT": "OOPSM"
+  },
+  "512.26": {
+    "FR": "OITEP",
+    "DE": "VATPE",
+    "IT": "OITIP"
+  },
+  "512.271": {
+    "FR": "OSV",
+    "DE": "MFV",
+    "IT": "OSVM"
+  },
+  "512.30": {
+    "FR": "OAAFM",
+    "DE": "VATV",
+    "IT": "OASAM"
+  },
+  "512.301": {
+    "FR": "OAAFM-DDPS",
+    "DE": "VATV-VBS",
+    "IT": "OASAM-DDPS"
+  },
+  "512.38": {
+    "FR": "OAHST",
+    "DE": "VATT",
+    "IT": "OATFS"
+  },
+  "512.413": {
+    "FR": "OISofCA",
+    "DE": "VABUA",
+    "IT": "OFSPE"
+  },
+  "512.43": {
+    "FR": "OIFC",
+    "DE": "VAK",
+    "IT": "OCFQE"
+  },
+  "513.1": {
+    "FR": "OOrgA",
+    "DE": "AO",
+    "IT": "OEs"
+  },
+  "513.11": {
+    "FR": "OStrA",
+    "DE": "VSA",
+    "IT": "OStrE"
+  },
+  "513.111": {
+    "FR": "OODA",
+    "DE": "VDA",
+    "IT": "OODE"
+  },
+  "513.12": {
+    "FR": "OEMCN",
+    "DE": "VSBN",
+    "IT": "OSMCN"
+  },
+  "513.52": {
+    "FR": "OSCR",
+    "DE": "VRKD",
+    "IT": "OSCR"
+  },
+  "513.61": {
+    "FR": "OSM",
+    "DE": "VMS",
+    "IT": "OSM"
+  },
+  "513.71": {
+    "FR": "OSO",
+    "DE": "VOD",
+    "IT": "OSO"
+  },
+  "513.72": {
+    "FR": "OSPF",
+    "DE": "VGD",
+    "IT": "OSPF"
+  },
+  "513.73": {
+    "FR": "OPPB",
+    "DE": "VSPS",
+    "IT": "OPPB"
+  },
+  "513.74": {
+    "FR": "OACM",
+    "DE": "VUM",
+    "IT": "OAAM"
+  },
+  "513.75": {
+    "FR": "OAMC",
+    "DE": "VmKI",
+    "IT": "OAMC"
+  },
+  "513.76": {
+    "FR": "OPPBE",
+    "DE": "VSPA",
+    "IT": "OPBE"
+  },
+  "514.20": {
+    "FR": "OMat",
+    "DE": "MatV",
+    "IT": "OMAT-DDPS"
+  },
+  "514.31": {
+    "FR": "OVCC",
+    "DE": "VFBF",
+    "IT": "OVCC"
+  },
+  "514.51": {
+    "FR": "LFMG",
+    "DE": "KMG",
+    "IT": "LMB"
+  },
+  "514.511": {
+    "FR": "OMG",
+    "DE": "KMV",
+    "IT": "OMB"
+  },
+  "514.54": {
+    "FR": "LArm",
+    "DE": "WG",
+    "IT": "LArm"
+  },
+  "514.541": {
+    "FR": "OArm",
+    "DE": "WV",
+    "IT": "OArm"
+  },
+  "516.41": {
+    "FR": "OJM",
+    "DE": "MJV",
+    "IT": "O-GM"
+  },
+  "519.1": {
+    "FR": "OPers-PPOE",
+    "DE": "PVSPA",
+    "IT": "OPers-POE"
+  },
+  "519.11": {
+    "FR": "OPers-PPOE-DDPS",
+    "DE": "PVSPA-VBS",
+    "IT": "OPers-POE-DDPS"
+  },
+  "519.2": {
+    "FR": "OMob",
+    "DE": "VMob",
+    "IT": "OMob"
+  },
+  "520.1": {
+    "FR": "LPPCi",
+    "DE": "BZG",
+    "IT": "LPPC"
+  },
+  "520.11": {
+    "FR": "OPCi",
+    "DE": "ZSV",
+    "IT": "OPCi"
+  },
+  "520.12": {
+    "FR": "OProP",
+    "DE": "BevSV",
+    "IT": "OPPop"
+  },
+  "520.151": {
+    "FR": "OCSS",
+    "DE": "VKSD",
+    "IT": "OCSS"
+  },
+  "520.16": {
+    "FR": "OCTSE",
+    "DE": "VKOVA",
+    "IT": "OCTSE"
+  },
+  "520.17": {
+    "FR": "OEMFP",
+    "DE": "VBSTB",
+    "IT": "OSMFP"
+  },
+  "520.20": {
+    "FR": "ORCPL",
+    "DE": "VRSL",
+    "IT": "OReq"
+  },
+  "520.3": {
+    "FR": "LPBC",
+    "DE": "KGSG",
+    "IT": "LPBC"
+  },
+  "520.31": {
+    "FR": "OPBC",
+    "DE": "KGSV",
+    "IT": "OPBC"
+  },
+  "520.311": {
+    "FR": "ODCS",
+    "DE": "VSFS",
+    "IT": "ODSRS"
+  },
+  "520.312": {
+    "FR": "OSPBC",
+    "DE": "VKKP",
+    "IT": "OSBC"
+  },
+  "531": {
+    "FR": "LAP",
+    "DE": "LVG",
+    "IT": "LAP"
+  },
+  "531.11": {
+    "FR": "OAEP",
+    "DE": "VWLV",
+    "IT": "OAEP"
+  },
+  "531.32": {
+    "FR": "OAP",
+    "DE": "VTM",
+    "IT": "OAAP"
+  },
+  "531.35": {
+    "FR": "OOBE",
+    "DE": "VOEW",
+    "IT": "OOSE"
+  },
+  "531.81": {
+    "FR": "OOSG",
+    "DE": "VOGW",
+    "IT": "OOSG"
+  },
+  "611.0": {
+    "FR": "LFC",
+    "DE": "FHG",
+    "IT": "LFC"
+  },
+  "611.01": {
+    "FR": "OFC",
+    "DE": "FHV",
+    "IT": "OFC"
+  },
+  "611.021": {
+    "FR": "OFDPP",
+    "DE": "VSVB",
+    "IT": "OFDP"
+  },
+  "613.2": {
+    "FR": "PFCC",
+    "DE": "FiLaG",
+    "IT": "LPFC"
+  },
+  "613.21": {
+    "FR": "OPFCC",
+    "DE": "FiLaV",
+    "IT": "OPFC"
+  },
+  "614.0": {
+    "FR": "LCF",
+    "DE": "FKG",
+    "IT": "LCF"
+  },
+  "616.1": {
+    "FR": "LSu",
+    "DE": "SuG",
+    "IT": "LSu"
+  },
+  "631.0": {
+    "FR": "LD",
+    "DE": "ZG",
+    "IT": "LD"
+  },
+  "631.01": {
+    "FR": "OD",
+    "DE": "ZV",
+    "IT": "OD"
+  },
+  "631.011": {
+    "FR": "OD-DFF",
+    "DE": "ZV-EFD",
+    "IT": "OD-DFF"
+  },
+  "631.012": {
+    "FR": "OADou",
+    "DE": "ZEV",
+    "IT": "OADo"
+  },
+  "631.013": {
+    "FR": "OD-OFDF",
+    "DE": "ZV-BAZG",
+    "IT": "OD-UDSC"
+  },
+  "631.061": {
+    "FR": "OTDD",
+    "DE": "DBZV",
+    "IT": "OTDD"
+  },
+  "631.062": {
+    "FR": "OCISF",
+    "DE": "ViZG",
+    "IT": "OCISC"
+  },
+  "632.10": {
+    "FR": "LTaD",
+    "DE": "ZTG",
+    "IT": "LTD"
+  },
+  "641.10": {
+    "FR": "LT",
+    "DE": "StG",
+    "IT": "LTB"
+  },
+  "641.101": {
+    "FR": "OT",
+    "DE": "StV",
+    "IT": "OTB"
+  },
+  "641.20": {
+    "FR": "LTVA",
+    "DE": "MWSTG",
+    "IT": "LIVA"
+  },
+  "641.201": {
+    "FR": "OTVA",
+    "DE": "MWSTV",
+    "IT": "OIVA"
+  },
+  "641.31": {
+    "FR": "LTab",
+    "DE": "TStG",
+    "IT": "LImT"
+  },
+  "641.311": {
+    "FR": "OITab",
+    "DE": "TStV",
+    "IT": "OImT"
+  },
+  "641.316": {
+    "FR": "OFPT",
+    "DE": "TPFV",
+    "IT": "OFPT"
+  },
+  "641.411": {
+    "FR": "LIB",
+    "DE": "BStG",
+    "IT": "LIB"
+  },
+  "641.51": {
+    "FR": "Limpauto",
+    "DE": "AStG",
+    "IT": "LIAut"
+  },
+  "641.511": {
+    "FR": "Oimpauto",
+    "DE": "AStV",
+    "IT": "OIAut"
+  },
+  "641.61": {
+    "FR": "Limpmin",
+    "DE": "MinöStG",
+    "IT": "LIOm"
+  },
+  "641.611": {
+    "FR": "Oimpmin",
+    "DE": "MinöStV",
+    "IT": "OIOm"
+  },
+  "641.81": {
+    "FR": "LRPL",
+    "DE": "SVAG",
+    "IT": "LTTP"
+  },
+  "641.811": {
+    "FR": "ORPL",
+    "DE": "SVAV",
+    "IT": "OTTP"
+  },
+  "641.91": {
+    "FR": "LFisE",
+    "DE": "ZBstG",
+    "IT": "LFR"
+  },
+  "642.11": {
+    "FR": "LIFD",
+    "DE": "DBG",
+    "IT": "LIFD"
+  },
+  "642.113": {
+    "FR": "Oinv",
+    "DE": "InvV",
+    "IT": "Oinv"
+  },
+  "642.114": {
+    "FR": "OIBL",
+    "DE": "LGBV",
+    "IT": "OULiq"
+  },
+  "642.115.325.1": {
+    "FR": "OPart",
+    "DE": "MBV",
+    "IT": "OParC"
+  },
+  "642.14": {
+    "FR": "LHID",
+    "DE": "StHG",
+    "IT": "LAID"
+  },
+  "642.161": {
+    "FR": "OIMin",
+    "DE": "MindStV",
+    "IT": "OImM"
+  },
+  "642.21": {
+    "FR": "LIA",
+    "DE": "VStG",
+    "IT": "LIP"
+  },
+  "642.211": {
+    "FR": "OIA",
+    "DE": "VStV",
+    "IT": "OIPrev"
+  },
+  "642.31": {
+    "FR": "OEmol-AFC",
+    "DE": "GebV ESTV",
+    "IT": "OEm-AFC"
+  },
+  "651.1": {
+    "FR": "LAAF",
+    "DE": "StAhiG",
+    "IT": "LAAF"
+  },
+  "651.11": {
+    "FR": "OAAF",
+    "DE": "StAhiV",
+    "IT": "OAAF"
+  },
+  "653.1": {
+    "FR": "LEAR",
+    "DE": "AIAG",
+    "IT": "LSAI"
+  },
+  "653.11": {
+    "FR": "OEAR",
+    "DE": "AIAV",
+    "IT": "OSAIn"
+  },
+  "654.1": {
+    "FR": "LEDPP",
+    "DE": "ALBAG",
+    "IT": "LSRPP"
+  },
+  "654.11": {
+    "FR": "OEDPP",
+    "DE": "ALBAV",
+    "IT": "OSRPP"
+  },
+  "661": {
+    "FR": "LTEO",
+    "DE": "WPEG",
+    "IT": "LTEO"
+  },
+  "661.1": {
+    "FR": "OTEO",
+    "DE": "WPEV",
+    "IT": "OTEO"
+  },
+  "672.2": {
+    "FR": "LECF",
+    "DE": "StADG",
+    "IT": "LECF"
+  },
+  "672.4": {
+    "FR": "LISint",
+    "DE": "IQG",
+    "IT": "LIFI"
+  },
+  "680": {
+    "FR": "LAlc",
+    "DE": "AlkG",
+    "IT": "LAlc"
+  },
+  "680.11": {
+    "FR": "OAlc",
+    "DE": "AlkV",
+    "IT": "OAlc"
+  },
+  "700": {
+    "FR": "LAT",
+    "DE": "RPG",
+    "IT": "LPT"
+  },
+  "700.1": {
+    "FR": "OAT",
+    "DE": "RPV",
+    "IT": "OPT"
+  },
+  "702": {
+    "FR": "LRS",
+    "DE": "ZWG",
+    "IT": "LASec"
+  },
+  "702.1": {
+    "FR": "ORSec",
+    "DE": "ZWV",
+    "IT": "OASec"
+  },
+  "704": {
+    "FR": "LCPR",
+    "DE": "FWG",
+    "IT": "LPS"
+  },
+  "704.1": {
+    "FR": "OCPR",
+    "DE": "FWV",
+    "IT": "OPS"
+  },
+  "709.17": {
+    "FR": "OCoo",
+    "DE": "KoVo",
+    "IT": "OCCRT"
+  },
+  "711": {
+    "FR": "LEx",
+    "DE": "EntG",
+    "IT": "LEspr"
+  },
+  "721.101": {
+    "FR": "LOA",
+    "DE": "StAG",
+    "IT": "LImA"
+  },
+  "721.80": {
+    "FR": "LFH",
+    "DE": "WRG",
+    "IT": "LUFI"
+  },
+  "721.801": {
+    "FR": "OFH",
+    "DE": "WRV",
+    "IT": "OUFI"
+  },
+  "721.821": {
+    "FR": "OCFH",
+    "DE": "VAEW",
+    "IT": "OIFI"
+  },
+  "721.831": {
+    "FR": "RDE",
+    "DE": "WZV",
+    "IT": "ODA"
+  },
+  "725.11": {
+    "FR": "LRN",
+    "DE": "NSG",
+    "IT": "LSN"
+  },
+  "725.111": {
+    "FR": "ORN",
+    "DE": "NSV",
+    "IT": "OSN"
+  },
+  "725.13": {
+    "FR": "LFORTA",
+    "DE": "NAFG",
+    "IT": "LFOSTRA"
+  },
+  "725.14": {
+    "FR": "LTRA",
+    "DE": "STVG",
+    "IT": "LTS"
+  },
+  "730.0": {
+    "FR": "LEne",
+    "DE": "EnG",
+    "IT": "LEne"
+  },
+  "730.01": {
+    "FR": "OEne",
+    "DE": "EnV",
+    "IT": "OEn"
+  },
+  "730.02": {
+    "FR": "OEEE",
+    "DE": "EnEV",
+    "IT": "OEEne"
+  },
+  "730.03": {
+    "FR": "OEneR",
+    "DE": "EnFV",
+    "IT": "OPEn"
+  },
+  "730.05": {
+    "FR": "Oémol-En",
+    "DE": "GebV-En",
+    "IT": "OE-En"
+  },
+  "732.1": {
+    "FR": "LENu",
+    "DE": "KEG",
+    "IT": "LENu"
+  },
+  "732.11": {
+    "FR": "OENu",
+    "DE": "KEV",
+    "IT": "OENu"
+  },
+  "732.12": {
+    "FR": "OAGa",
+    "DE": "SaV",
+    "IT": "OASal"
+  },
+  "732.13": {
+    "FR": "ORCSN",
+    "DE": "VBRK",
+    "IT": "ORTN"
+  },
+  "732.16": {
+    "FR": "OCSN",
+    "DE": "VKNS",
+    "IT": "OCSN"
+  },
+  "732.17": {
+    "FR": "OFDG",
+    "DE": "SEFV",
+    "IT": "OFDS"
+  },
+  "732.2": {
+    "FR": "LIFSN",
+    "DE": "ENSIG",
+    "IT": "LIFSN"
+  },
+  "732.21": {
+    "FR": "OIFSN",
+    "DE": "ENSIV",
+    "IT": "OIFSN"
+  },
+  "732.33": {
+    "FR": "OPU",
+    "DE": "NFSV",
+    "IT": "OPE"
+  },
+  "732.44": {
+    "FR": "LRCN",
+    "DE": "KHG",
+    "IT": "LRCN"
+  },
+  "732.441": {
+    "FR": "ORCN",
+    "DE": "KHV",
+    "IT": "ORCN"
+  },
+  "734.0": {
+    "FR": "LIE",
+    "DE": "EleG",
+    "IT": "LIE"
+  },
+  "734.25": {
+    "FR": "OPIE",
+    "DE": "VPeA",
+    "IT": "OPIE"
+  },
+  "734.26": {
+    "FR": "OMBT",
+    "DE": "NEV",
+    "IT": "OPBT"
+  },
+  "734.27": {
+    "FR": "OIBT",
+    "DE": "NIV",
+    "IT": "OIBT"
+  },
+  "734.31": {
+    "FR": "OLEl",
+    "DE": "LeV",
+    "IT": "OLEl"
+  },
+  "734.5": {
+    "FR": "OCEM",
+    "DE": "VEMV",
+    "IT": "OCEM"
+  },
+  "734.6": {
+    "FR": "OSPEX",
+    "DE": "VGSEB",
+    "IT": "OASAE"
+  },
+  "734.7": {
+    "FR": "LApEl",
+    "DE": "StromVG",
+    "IT": "LAEl"
+  },
+  "734.71": {
+    "FR": "OApEl",
+    "DE": "StromVV",
+    "IT": "OAEl"
+  },
+  "734.722": {
+    "FR": "OIRH",
+    "DE": "WResV",
+    "IT": "OREI"
+  },
+  "734.91": {
+    "FR": "LFiEl",
+    "DE": "FiREG",
+    "IT": "LAiSE"
+  },
+  "740.1": {
+    "FR": "LTTM",
+    "DE": "GVVG",
+    "IT": "LTrasf"
+  },
+  "741.01": {
+    "FR": "LCR",
+    "DE": "SVG",
+    "IT": "LCStr"
+  },
+  "741.013": {
+    "FR": "OCCR",
+    "DE": "SKV",
+    "IT": "OCCS"
+  },
+  "741.016": {
+    "FR": "OCTrI",
+    "DE": "VKVöV",
+    "IT": "OCTrIn"
+  },
+  "741.11": {
+    "FR": "OCR",
+    "DE": "VRV",
+    "IT": "ONC"
+  },
+  "741.21": {
+    "FR": "OSR",
+    "DE": "SSV",
+    "IT": "OSStr"
+  },
+  "741.31": {
+    "FR": "OAV",
+    "DE": "VVV",
+    "IT": "OAV"
+  },
+  "741.41": {
+    "FR": "OETV",
+    "DE": "VTS",
+    "IT": "OETV"
+  },
+  "741.412": {
+    "FR": "OETV 1",
+    "DE": "TAFV 1",
+    "IT": "OETV 1"
+  },
+  "741.413": {
+    "FR": "OETV 2",
+    "DE": "TAFV 2",
+    "IT": "OETV 2"
+  },
+  "741.414": {
+    "FR": "OETV 3",
+    "DE": "TAFV 3",
+    "IT": "OETV 3"
+  },
+  "741.51": {
+    "FR": "OAC",
+    "DE": "VZV",
+    "IT": "OAC"
+  },
+  "741.511": {
+    "FR": "ORT",
+    "DE": "TGV",
+    "IT": "OATV"
+  },
+  "741.521": {
+    "FR": "OACP",
+    "DE": "CZV",
+    "IT": "OAut"
+  },
+  "741.522": {
+    "FR": "OMCo",
+    "DE": "FV",
+    "IT": "OMaeC"
+  },
+  "741.57": {
+    "FR": "OSAR",
+    "DE": "ISUV",
+    "IT": "OSIStr"
+  },
+  "741.58": {
+    "FR": "OSIAC",
+    "DE": "IVZV",
+    "IT": "OSIAC"
+  },
+  "741.59": {
+    "FR": "OCAut",
+    "DE": "VAF",
+    "IT": "OGA"
+  },
+  "741.621": {
+    "FR": "SDR",
+    "DE": "SDR",
+    "IT": "SDR"
+  },
+  "741.622": {
+    "FR": "OCS",
+    "DE": "GGBV",
+    "IT": "OSAS"
+  },
+  "741.631": {
+    "FR": "OTS",
+    "DE": "VSV",
+    "IT": "OTS"
+  },
+  "741.71": {
+    "FR": "LVA",
+    "DE": "NSAG",
+    "IT": "LUSN"
+  },
+  "741.711": {
+    "FR": "OVA",
+    "DE": "NSAV",
+    "IT": "OUSN"
+  },
+  "742.101": {
+    "FR": "LCdF",
+    "DE": "EBG",
+    "IT": "Lferr"
+  },
+  "742.102": {
+    "FR": "OEmol-TP",
+    "DE": "GebV-öV",
+    "IT": "OEm-TP"
+  },
+  "742.104": {
+    "FR": "LTrAlp",
+    "DE": "AtraG",
+    "IT": "LTAlp"
+  },
+  "742.120": {
+    "FR": "OCPF",
+    "DE": "KPFV",
+    "IT": "OCPF"
+  },
+  "742.122": {
+    "FR": "OARF",
+    "DE": "NZV",
+    "IT": "OARF"
+  },
+  "742.123": {
+    "FR": "OServAS",
+    "DE": "TVSV",
+    "IT": "OSAT"
+  },
+  "742.140": {
+    "FR": "LFIF",
+    "DE": "BIFG",
+    "IT": "LFIF"
+  },
+  "742.144": {
+    "FR": "LBCF",
+    "DE": "BGLE",
+    "IT": "LRFF"
+  },
+  "742.161": {
+    "FR": "OEIT",
+    "DE": "VSZV",
+    "IT": "OIET"
+  },
+  "742.162": {
+    "FR": "OFSI",
+    "DE": "VWEV",
+    "IT": "OCMSD"
+  },
+  "742.211": {
+    "FR": "LGEL",
+    "DE": "VZEG",
+    "IT": "LPIL"
+  },
+  "742.31": {
+    "FR": "LCFF",
+    "DE": "SBBG",
+    "IT": "LFFS"
+  },
+  "742.41": {
+    "FR": "LTM",
+    "DE": "GüTG",
+    "IT": "LTM"
+  },
+  "742.411": {
+    "FR": "OTM",
+    "DE": "GüTV",
+    "IT": "OTM"
+  },
+  "742.412": {
+    "FR": "RSD",
+    "DE": "RSD",
+    "IT": "RSD"
+  },
+  "743.01": {
+    "FR": "LICa",
+    "DE": "SebG",
+    "IT": "LIFT"
+  },
+  "743.011": {
+    "FR": "OICa",
+    "DE": "SebV",
+    "IT": "OIFT"
+  },
+  "744.10": {
+    "FR": "LEnTR",
+    "DE": "STUG",
+    "IT": "LTrS"
+  },
+  "744.103": {
+    "FR": "OEnTR",
+    "DE": "STUV",
+    "IT": "OTStr"
+  },
+  "744.21": {
+    "FR": "LTro",
+    "DE": "TrG",
+    "IT": "LIF"
+  },
+  "745.1": {
+    "FR": "LTV",
+    "DE": "PBG",
+    "IT": "LTV"
+  },
+  "745.11": {
+    "FR": "OTV",
+    "DE": "VPB",
+    "IT": "OTV"
+  },
+  "745.13": {
+    "FR": "OH",
+    "DE": "FPV",
+    "IT": "OOra"
+  },
+  "745.16": {
+    "FR": "OITRV",
+    "DE": "ARPV",
+    "IT": "OITRV"
+  },
+  "745.2": {
+    "FR": "LOST",
+    "DE": "BGST",
+    "IT": "LFSI"
+  },
+  "745.21": {
+    "FR": "OOST",
+    "DE": "VST",
+    "IT": "OOSI"
+  },
+  "746.1": {
+    "FR": "LITC",
+    "DE": "RLG",
+    "IT": "LITC"
+  },
+  "746.11": {
+    "FR": "OITC",
+    "DE": "RLV",
+    "IT": "OITC"
+  },
+  "746.12": {
+    "FR": "OSITC",
+    "DE": "RLSV",
+    "IT": "OSITC"
+  },
+  "747.201": {
+    "FR": "LNI",
+    "DE": "BSG",
+    "IT": "LNI"
+  },
+  "747.30": {
+    "FR": "LNM",
+    "DE": "SSG",
+    "IT": "LNM"
+  },
+  "748.0": {
+    "FR": "LA",
+    "DE": "LFG",
+    "IT": "LNA"
+  },
+  "748.01": {
+    "FR": "OSAv",
+    "DE": "LFV",
+    "IT": "ONA"
+  },
+  "748.02": {
+    "FR": "OAMil",
+    "DE": "MLFV",
+    "IT": "OAMil"
+  },
+  "748.03": {
+    "FR": "OAFA",
+    "DE": "VFAL",
+    "IT": "OAFA"
+  },
+  "748.122": {
+    "FR": "OMSA",
+    "DE": "VSL",
+    "IT": "OMSA"
+  },
+  "748.411": {
+    "FR": "OTrA",
+    "DE": "LTrV",
+    "IT": "OTrA"
+  },
+  "748.941": {
+    "FR": "OACS",
+    "DE": "VLK",
+    "IT": "OACS"
+  },
+  "749.1": {
+    "FR": "LTSM",
+    "DE": "UGüTG",
+    "IT": "LTMS"
+  },
+  "780.1": {
+    "FR": "LSCPT",
+    "DE": "BÜPF",
+    "IT": "LSCPT"
+  },
+  "780.11": {
+    "FR": "OSCPT",
+    "DE": "VÜPF",
+    "IT": "OSCPT"
+  },
+  "780.112": {
+    "FR": "OOC-SCPT",
+    "DE": "VBO-ÜPF",
+    "IT": "OOC-SCPT"
+  },
+  "780.117": {
+    "FR": "OME-SCPT",
+    "DE": "VD-ÜPF",
+    "IT": "OE-SCPT"
+  },
+  "780.12": {
+    "FR": "OST-SCPT",
+    "DE": "VVS-ÜPF",
+    "IT": "OST-SCPT"
+  },
+  "783.0": {
+    "FR": "LPO",
+    "DE": "PG",
+    "IT": "LPO"
+  },
+  "783.01": {
+    "FR": "OPO",
+    "DE": "VPG",
+    "IT": "OPO"
+  },
+  "783.1": {
+    "FR": "LOP",
+    "DE": "POG",
+    "IT": "LOP"
+  },
+  "783.11": {
+    "FR": "OLOP",
+    "DE": "VPOG",
+    "IT": "OOP"
+  },
+  "784.10": {
+    "FR": "LTC",
+    "DE": "FMG",
+    "IT": "LTC"
+  },
+  "784.104": {
+    "FR": "ORAT",
+    "DE": "AEFV",
+    "IT": "ORAT"
+  },
+  "784.106": {
+    "FR": "OREDT",
+    "DE": "GebV-FMG",
+    "IT": "OTST"
+  },
+  "784.11": {
+    "FR": "LET",
+    "DE": "TUG",
+    "IT": "LATC"
+  },
+  "784.40": {
+    "FR": "LRTV",
+    "DE": "RTVG",
+    "IT": "LRTV"
+  },
+  "784.401": {
+    "FR": "ORTV",
+    "DE": "RTVV",
+    "IT": "ORTV"
+  },
+  "810.11": {
+    "FR": "LPMA",
+    "DE": "FMedG",
+    "IT": "LPAM"
+  },
+  "810.113": {
+    "FR": "OCNE",
+    "DE": "VNEK",
+    "IT": "OCNE"
+  },
+  "810.12": {
+    "FR": "LAGH",
+    "DE": "GUMG",
+    "IT": "LEGU"
+  },
+  "810.30": {
+    "FR": "LRH",
+    "DE": "HFG",
+    "IT": "LRUm"
+  },
+  "810.301": {
+    "FR": "ORH",
+    "DE": "HFV",
+    "IT": "ORUm"
+  },
+  "810.305": {
+    "FR": "OClin",
+    "DE": "KlinV",
+    "IT": "OSRUm"
+  },
+  "810.306": {
+    "FR": "OClin-Dim",
+    "DE": "KlinV-Mep",
+    "IT": "OSRUm-Dmed"
+  },
+  "810.308": {
+    "FR": "Org LRH",
+    "DE": "OV-HFG",
+    "IT": "Org-LRUm"
+  },
+  "810.31": {
+    "FR": "LRCS",
+    "DE": "StFG",
+    "IT": "LCel"
+  },
+  "810.311": {
+    "FR": "ORCS",
+    "DE": "VStFG",
+    "IT": "ORCel"
+  },
+  "811.11": {
+    "FR": "LPMéd",
+    "DE": "MedBG",
+    "IT": "LPMed"
+  },
+  "811.21": {
+    "FR": "LPSan",
+    "DE": "GesBG",
+    "IT": "LPSan"
+  },
+  "811.212": {
+    "FR": "OCPSan",
+    "DE": "GesBKV",
+    "IT": "OCPSan"
+  },
+  "811.214": {
+    "FR": "ORPSan",
+    "DE": "GesBAV",
+    "IT": "ORPSan"
+  },
+  "811.217": {
+    "FR": "OESMB",
+    "DE": "EmGvV",
+    "IT": "OACMB"
+  },
+  "812.121": {
+    "FR": "LStup",
+    "DE": "BetmG",
+    "IT": "LStup"
+  },
+  "812.21": {
+    "FR": "LPTh",
+    "DE": "HMG",
+    "IT": "LATer"
+  },
+  "812.211": {
+    "FR": "OPha",
+    "DE": "PhaV",
+    "IT": "OFarm"
+  },
+  "812.213": {
+    "FR": "ODim",
+    "DE": "MepV",
+    "IT": "ODmed"
+  },
+  "812.219": {
+    "FR": "ODiv",
+    "DE": "IvDV",
+    "IT": "ODIV"
+  },
+  "813.1": {
+    "FR": "LChim",
+    "DE": "ChemG",
+    "IT": "LPChim"
+  },
+  "813.11": {
+    "FR": "OChim",
+    "DE": "ChemV",
+    "IT": "OPChim"
+  },
+  "813.12": {
+    "FR": "OPBio",
+    "DE": "VBP",
+    "IT": "OBioc"
+  },
+  "814.01": {
+    "FR": "LPE",
+    "DE": "USG",
+    "IT": "LPAmb"
+  },
+  "814.011": {
+    "FR": "OEIE",
+    "DE": "UVPV",
+    "IT": "OEIA"
+  },
+  "814.012": {
+    "FR": "OPAM",
+    "DE": "StFV",
+    "IT": "OPIR"
+  },
+  "814.014": {
+    "FR": "OEmol-OFEV",
+    "DE": "GebV-BAFU",
+    "IT": "OE-UFAM"
+  },
+  "814.017": {
+    "FR": "ORRTP",
+    "DE": "PRTR-V",
+    "IT": "OPRTR"
+  },
+  "814.018": {
+    "FR": "OCOV",
+    "DE": "VOCV",
+    "IT": "OCOV"
+  },
+  "814.021": {
+    "FR": "OCBo",
+    "DE": "HHV",
+    "IT": "OCoL"
+  },
+  "814.076": {
+    "FR": "ODO",
+    "DE": "VBO",
+    "IT": "ODO"
+  },
+  "814.12": {
+    "FR": "Osol",
+    "DE": "VBBo",
+    "IT": "O suolo"
+  },
+  "814.20": {
+    "FR": "LEaux",
+    "DE": "GSchG",
+    "IT": "LPAc"
+  },
+  "814.201": {
+    "FR": "OEaux",
+    "DE": "GSchV",
+    "IT": "OPAc"
+  },
+  "814.310": {
+    "FR": "LCl",
+    "DE": "KlG",
+    "IT": "LOCli"
+  },
+  "814.318.142.1": {
+    "FR": "OPair",
+    "DE": "LRV",
+    "IT": "OIAt"
+  },
+  "814.41": {
+    "FR": "OPB",
+    "DE": "LSV",
+    "IT": "OIF"
+  },
+  "814.50": {
+    "FR": "LRaP",
+    "DE": "StSG",
+    "IT": "LRaP"
+  },
+  "814.501": {
+    "FR": "ORaP",
+    "DE": "StSV",
+    "IT": "ORaP"
+  },
+  "814.554": {
+    "FR": "OUMR",
+    "DE": "UraM",
+    "IT": "MMRa"
+  },
+  "814.56": {
+    "FR": "OE-RaP",
+    "DE": "GebV-StS",
+    "IT": "OEm-RaP"
+  },
+  "814.600": {
+    "FR": "OLED",
+    "DE": "VVEA",
+    "IT": "OPSR"
+  },
+  "814.610": {
+    "FR": "OMoD",
+    "DE": "VeVA",
+    "IT": "OTRif"
+  },
+  "814.620": {
+    "FR": "OREA",
+    "DE": "VREG",
+    "IT": "ORSAE"
+  },
+  "814.621": {
+    "FR": "OEB",
+    "DE": "VGV",
+    "IT": "OIB"
+  },
+  "814.680": {
+    "FR": "OSites",
+    "DE": "AltlV",
+    "IT": "OSiti"
+  },
+  "814.681": {
+    "FR": "OTAS",
+    "DE": "VASA",
+    "IT": "OTaRSi"
+  },
+  "814.71": {
+    "FR": "LRNIS",
+    "DE": "NISSG",
+    "IT": "LRNIS"
+  },
+  "814.710": {
+    "FR": "ORNI",
+    "DE": "NISV",
+    "IT": "ORNI"
+  },
+  "814.711": {
+    "FR": "O-LRNIS",
+    "DE": "V-NISSG",
+    "IT": "O-LRNIS"
+  },
+  "814.81": {
+    "FR": "ORRChim",
+    "DE": "ChemRRV",
+    "IT": "ORRPChim"
+  },
+  "814.82": {
+    "FR": "OPICChim",
+    "DE": "ChemPICV",
+    "IT": "OPICChim"
+  },
+  "814.91": {
+    "FR": "LGG",
+    "DE": "GTG",
+    "IT": "LIG"
+  },
+  "814.911": {
+    "FR": "ODE",
+    "DE": "FrSV",
+    "IT": "OEDA"
+  },
+  "814.912": {
+    "FR": "OUC",
+    "DE": "ESV",
+    "IT": "OIConf"
+  },
+  "816.1": {
+    "FR": "LDEP",
+    "DE": "EPDG",
+    "IT": "LCIP"
+  },
+  "816.11": {
+    "FR": "ODEP",
+    "DE": "EPDV",
+    "IT": "OCIP"
+  },
+  "816.111": {
+    "FR": "ODEP-DFI",
+    "DE": "EPDV-EDI",
+    "IT": "OCIP-DFI"
+  },
+  "816.12": {
+    "FR": "OFDEP",
+    "DE": "EPDFV",
+    "IT": "OFCIP"
+  },
+  "817.0": {
+    "FR": "LDAl",
+    "DE": "LMG",
+    "IT": "LDerr"
+  },
+  "817.02": {
+    "FR": "ODAlOUs",
+    "DE": "LGV",
+    "IT": "ODerr"
+  },
+  "817.032": {
+    "FR": "OPCNP",
+    "DE": "MNKPV",
+    "IT": "OPCNP"
+  },
+  "817.042": {
+    "FR": "OELDAl",
+    "DE": "LMVV",
+    "IT": "OELDerr"
+  },
+  "817.190": {
+    "FR": "OAbCV",
+    "DE": "VSFK",
+    "IT": "OMCC"
+  },
+  "817.45": {
+    "FR": "OCDA",
+    "DE": "VLKA"
+  },
+  "818.101": {
+    "FR": "LEp",
+    "DE": "EpG",
+    "IT": "LEp"
+  },
+  "818.311": {
+    "FR": "OPTP",
+    "DE": "PaRV",
+    "IT": "OPFP"
+  },
+  "818.32": {
+    "FR": "LPTab",
+    "DE": "TabPG",
+    "IT": "LPTab"
+  },
+  "818.321": {
+    "FR": "OPTab",
+    "DE": "TabPV",
+    "IT": "OPTab"
+  },
+  "818.33": {
+    "FR": "LEMO",
+    "DE": "KRG",
+    "IT": "LRMT"
+  },
+  "818.331": {
+    "FR": "OEMO",
+    "DE": "KRV",
+    "IT": "ORMT"
+  },
+  "819.14": {
+    "FR": "OMach",
+    "DE": "MaschV",
+    "IT": "OMacch"
+  },
+  "822.11": {
+    "FR": "LTr",
+    "DE": "ArG",
+    "IT": "LL"
+  },
+  "822.111": {
+    "FR": "OLT 1",
+    "DE": "ArGV 1",
+    "IT": "OLL 1"
+  },
+  "822.112": {
+    "FR": "OLT 2",
+    "DE": "ArGV 2",
+    "IT": "OLL 2"
+  },
+  "822.113": {
+    "FR": "OLT 3",
+    "DE": "ArGV 3",
+    "IT": "OLL 3"
+  },
+  "822.114": {
+    "FR": "OLT 4",
+    "DE": "ArGV 4",
+    "IT": "OLL 4"
+  },
+  "822.115": {
+    "FR": "OLT 5",
+    "DE": "ArGV 5",
+    "IT": "OLL 5"
+  },
+  "822.117": {
+    "FR": "OEmol-LTr",
+    "DE": "GebV-ArG",
+    "IT": "OEm-LL"
+  },
+  "822.21": {
+    "FR": "LDT",
+    "DE": "AZG",
+    "IT": "LDL"
+  },
+  "822.211": {
+    "FR": "OLDT",
+    "DE": "AZGV",
+    "IT": "OLDL"
+  },
+  "822.221": {
+    "FR": "OTR 1",
+    "DE": "ARV 1",
+    "IT": "OLR 1"
+  },
+  "822.222": {
+    "FR": "OTR 2",
+    "DE": "ARV 2",
+    "IT": "OLR 2"
+  },
+  "822.31": {
+    "FR": "LTrD",
+    "DE": "HArG",
+    "IT": "LLD"
+  },
+  "822.311": {
+    "FR": "OTrD",
+    "DE": "HArGV",
+    "IT": "OLLD"
+  },
+  "822.41": {
+    "FR": "LTN",
+    "DE": "BGSA",
+    "IT": "LLN"
+  },
+  "822.411": {
+    "FR": "OTN",
+    "DE": "VOSA",
+    "IT": "OLN"
+  },
+  "823.11": {
+    "FR": "LSE",
+    "DE": "AVG",
+    "IT": "LC"
+  },
+  "823.111": {
+    "FR": "OSE",
+    "DE": "AVV",
+    "IT": "OC"
+  },
+  "823.113": {
+    "FR": "OEmol-LSE",
+    "DE": "GebV-AVG",
+    "IT": "OEm-LC"
+  },
+  "823.20": {
+    "FR": "LDét",
+    "DE": "EntsG",
+    "IT": "LDist"
+  },
+  "823.201": {
+    "FR": "Odét",
+    "DE": "EntsV",
+    "IT": "ODist"
+  },
+  "824.0": {
+    "FR": "LSC",
+    "DE": "ZDG",
+    "IT": "LSC"
+  },
+  "824.01": {
+    "FR": "OSCi",
+    "DE": "ZDV",
+    "IT": "OSCi"
+  },
+  "824.091": {
+    "FR": "ODSC",
+    "DE": "ZDUeV",
+    "IT": "ODSC"
+  },
+  "830.1": {
+    "FR": "LPGA",
+    "DE": "ATSG",
+    "IT": "LPGA"
+  },
+  "830.11": {
+    "FR": "OPGA",
+    "DE": "ATSV",
+    "IT": "OPGA"
+  },
+  "831.10": {
+    "FR": "LAVS",
+    "DE": "AHVG",
+    "IT": "LAVS"
+  },
+  "831.101": {
+    "FR": "RAVS",
+    "DE": "AHVV",
+    "IT": "OAVS"
+  },
+  "831.111": {
+    "FR": "OAF",
+    "DE": "VFV",
+    "IT": "OAF"
+  },
+  "831.20": {
+    "FR": "LAI",
+    "DE": "IVG",
+    "IT": "LAI"
+  },
+  "831.201": {
+    "FR": "RAI",
+    "DE": "IVV",
+    "IT": "OAI"
+  },
+  "831.26": {
+    "FR": "LIPPI",
+    "DE": "IFEG",
+    "IT": "LIPIn"
+  },
+  "831.30": {
+    "FR": "LPC",
+    "DE": "ELG",
+    "IT": "LPC"
+  },
+  "831.301": {
+    "FR": "OPC-AVS/AI",
+    "DE": "ELV",
+    "IT": "OPC-AVS/AI"
+  },
+  "831.40": {
+    "FR": "LPP",
+    "DE": "BVG",
+    "IT": "LPP"
+  },
+  "831.411": {
+    "FR": "OEPL",
+    "DE": "WEFV",
+    "IT": "OPPA"
+  },
+  "831.42": {
+    "FR": "LFLP",
+    "DE": "FZG",
+    "IT": "LFLP"
+  },
+  "831.425": {
+    "FR": "OLP",
+    "DE": "FZV",
+    "IT": "OLP"
+  },
+  "832.10": {
+    "FR": "LAMal",
+    "DE": "KVG",
+    "IT": "LAMal"
+  },
+  "832.102": {
+    "FR": "OAMal",
+    "DE": "KVV",
+    "IT": "OAMal"
+  },
+  "832.104": {
+    "FR": "OCP",
+    "DE": "VKL",
+    "IT": "OCPre"
+  },
+  "832.105": {
+    "FR": "OCA",
+    "DE": "VVK",
+    "IT": "OTeA"
+  },
+  "832.12": {
+    "FR": "LSAMal",
+    "DE": "KVAG",
+    "IT": "LVAMal"
+  },
+  "832.121": {
+    "FR": "OSAMal",
+    "DE": "KVAV",
+    "IT": "OVAMal"
+  },
+  "832.20": {
+    "FR": "LAA",
+    "DE": "UVG",
+    "IT": "LAINF"
+  },
+  "832.202": {
+    "FR": "OLAA",
+    "DE": "UVV",
+    "IT": "OAINF"
+  },
+  "832.30": {
+    "FR": "OPA",
+    "DE": "VUV",
+    "IT": "OPI"
+  },
+  "832.321": {
+    "FR": "OPTM",
+    "DE": "SAMV",
+    "IT": "OPLM"
+  },
+  "833.1": {
+    "FR": "LAM",
+    "DE": "MVG",
+    "IT": "LAM"
+  },
+  "833.11": {
+    "FR": "OAM",
+    "DE": "MVV",
+    "IT": "OAM"
+  },
+  "834.1": {
+    "FR": "LAPG",
+    "DE": "EOG",
+    "IT": "LIPG"
+  },
+  "834.11": {
+    "FR": "OAPG",
+    "DE": "EOV",
+    "IT": "OIPG"
+  },
+  "836.1": {
+    "FR": "LFA",
+    "DE": "FLG",
+    "IT": "LAF"
+  },
+  "836.11": {
+    "FR": "RFA",
+    "DE": "FLV",
+    "IT": "OA Fam"
+  },
+  "836.2": {
+    "FR": "LAFam",
+    "DE": "FamZG",
+    "IT": "LAFam"
+  },
+  "836.21": {
+    "FR": "OAFam",
+    "DE": "FamZV",
+    "IT": "OAFami"
+  },
+  "836.22": {
+    "FR": "OFOrg",
+    "DE": "FOrgV",
+    "IT": "OAOrg"
+  },
+  "837.0": {
+    "FR": "LACI",
+    "DE": "AVIG",
+    "IT": "LADI"
+  },
+  "837.02": {
+    "FR": "OACI",
+    "DE": "AVIV",
+    "IT": "OADI"
+  },
+  "837.141": {
+    "FR": "OFAC",
+    "DE": "AVFV",
+    "IT": "OFAD"
+  },
+  "837.2": {
+    "FR": "LPtra",
+    "DE": "ÜLG",
+    "IT": "LPTD"
+  },
+  "837.21": {
+    "FR": "OPtra",
+    "DE": "ÜLV",
+    "IT": "OPTD"
+  },
+  "842": {
+    "FR": "LOG",
+    "DE": "WFG",
+    "IT": "LPrA"
+  },
+  "842.1": {
+    "FR": "OLOG",
+    "DE": "WFV",
+    "IT": "OPrA"
+  },
+  "843": {
+    "FR": "LCAP",
+    "DE": "WEG",
+    "IT": "LCAP"
+  },
+  "843.1": {
+    "FR": "OLCAP",
+    "DE": "VWEG",
+    "IT": "OLCAP"
+  },
+  "844": {
+    "FR": "LALM",
+    "DE": "VWBG",
+    "IT": "LMAM"
+  },
+  "851.1": {
+    "FR": "LAS",
+    "DE": "ZUG",
+    "IT": "LAS"
+  },
+  "861.1": {
+    "FR": "OAAcc",
+    "DE": "KBFHV",
+    "IT": "OACust"
+  },
+  "901.021": {
+    "FR": "OPR",
+    "DE": "VRP",
+    "IT": "OPR"
+  },
+  "910.1": {
+    "FR": "LAgr",
+    "DE": "LwG",
+    "IT": "LAgr"
+  },
+  "910.11": {
+    "FR": "OEmol-OFAG",
+    "DE": "GebV-BLW"
+  },
+  "910.13": {
+    "FR": "OPD",
+    "DE": "DZV",
+    "IT": "OPD"
+  },
+  "910.15": {
+    "FR": "OCCEA",
+    "DE": "VKKL",
+    "IT": "OCoC"
+  },
+  "910.16": {
+    "FR": "OQuaDu",
+    "DE": "QuNaV",
+    "IT": "OQuSo"
+  },
+  "910.17": {
+    "FR": "OCCP",
+    "DE": "EKBV",
+    "IT": "OCSC"
+  },
+  "910.19": {
+    "FR": "ODMA",
+    "DE": "BAlV",
+    "IT": "ODMA"
+  },
+  "910.91": {
+    "FR": "OTerm",
+    "DE": "LBV",
+    "IT": "OTerm"
+  },
+  "913.1": {
+    "FR": "OAS",
+    "DE": "SVV",
+    "IT": "OMSt"
+  },
+  "914.11": {
+    "FR": "OMAS",
+    "DE": "SBMV",
+    "IT": "OMSC"
+  },
+  "915.7": {
+    "FR": "ORAgr",
+    "DE": "VLF",
+    "IT": "ORAgr"
+  },
+  "915.8": {
+    "FR": "OReCI",
+    "DE": "FKINV",
+    "IT": "OPRCI"
+  },
+  "916.01": {
+    "FR": "OIAgr",
+    "DE": "AEV",
+    "IT": "OIAgr"
+  },
+  "916.010": {
+    "FR": "OPVA",
+    "DE": "LAfV",
+    "IT": "OPSAgr"
+  },
+  "916.020": {
+    "FR": "OPPr",
+    "DE": "VPrP",
+    "IT": "OPPrim"
+  },
+  "916.161": {
+    "FR": "OPPh",
+    "DE": "PSMV",
+    "IT": "OPF"
+  },
+  "916.171": {
+    "FR": "OEng",
+    "DE": "DüV",
+    "IT": "OCon"
+  },
+  "916.181": {
+    "FR": "ORPGAA",
+    "DE": "PGRELV",
+    "IT": "ORFGAA"
+  },
+  "916.20": {
+    "FR": "OSaVé",
+    "DE": "PGesV",
+    "IT": "OSalV"
+  },
+  "916.201": {
+    "FR": "OSaVé-DEFR-DETEC",
+    "DE": "PGesV-WBF-UVEK",
+    "IT": "OSalV-DEFR-DATEC"
+  },
+  "916.307": {
+    "FR": "OSALA",
+    "DE": "FMV",
+    "IT": "OsAlA"
+  },
+  "916.310": {
+    "FR": "OE",
+    "DE": "TZV",
+    "IT": "OAlle"
+  },
+  "916.341": {
+    "FR": "OBB",
+    "DE": "SV",
+    "IT": "OBM"
+  },
+  "916.342": {
+    "FR": "ODVo",
+    "DE": "GKZ",
+    "IT": "OCPo"
+  },
+  "916.344": {
+    "FR": "OEM",
+    "DE": "HBV",
+    "IT": "OEMas"
+  },
+  "916.351.021.1": {
+    "FR": "OHyPL",
+    "DE": "VHyMP",
+    "IT": "OIgPL"
+  },
+  "916.371": {
+    "FR": "OO",
+    "DE": "EiV",
+    "IT": "OU"
+  },
+  "916.40": {
+    "FR": "LFE",
+    "DE": "TSG",
+    "IT": "LFE"
+  },
+  "916.401": {
+    "FR": "OFE",
+    "DE": "TSV",
+    "IT": "OFE"
+  },
+  "916.403": {
+    "FR": "OSSAn",
+    "DE": "TGDV",
+    "IT": "OSSAn"
+  },
+  "916.408": {
+    "FR": "O-SICAL",
+    "DE": "ISLK-V",
+    "IT": "O-SIFA"
+  },
+  "916.51": {
+    "FR": "OAgrD",
+    "DE": "LDV",
+    "IT": "ODAgr"
+  },
+  "918.1": {
+    "FR": "OPAR",
+    "DE": "VPEV",
+    "IT": "ORPAR"
+  },
+  "921.0": {
+    "FR": "LFo",
+    "DE": "WaG",
+    "IT": "LFo"
+  },
+  "921.01": {
+    "FR": "OFo",
+    "DE": "WaV",
+    "IT": "OFo"
+  },
+  "922.0": {
+    "FR": "LChP",
+    "DE": "JSG",
+    "IT": "LCP"
+  },
+  "922.01": {
+    "FR": "OChP",
+    "DE": "JSV",
+    "IT": "OCP"
+  },
+  "922.31": {
+    "FR": "ODF",
+    "DE": "VEJ",
+    "IT": "OBAF"
+  },
+  "922.32": {
+    "FR": "OROEM",
+    "DE": "WZVV",
+    "IT": "ORUAM"
+  },
+  "923.0": {
+    "FR": "LFSP",
+    "DE": "BGF",
+    "IT": "LFSP"
+  },
+  "923.01": {
+    "FR": "OLFP",
+    "DE": "VBGF",
+    "IT": "OLFP"
+  },
+  "930.11": {
+    "FR": "LSPro",
+    "DE": "PrSG",
+    "IT": "LSPro"
+  },
+  "930.111": {
+    "FR": "OSPro",
+    "DE": "PrSV",
+    "IT": "OSPro"
+  },
+  "930.112": {
+    "FR": "OAsc",
+    "DE": "AufzV",
+    "IT": "OAsc"
+  },
+  "930.113": {
+    "FR": "OSRP",
+    "DE": "DBV",
+    "IT": "OSRP"
+  },
+  "930.114": {
+    "FR": "OSEP",
+    "DE": "DGV",
+    "IT": "OSAP"
+  },
+  "930.115": {
+    "FR": "OEPI",
+    "DE": "PSAV",
+    "IT": "ODPI"
+  },
+  "930.116": {
+    "FR": "OAG",
+    "DE": "GaGV",
+    "IT": "OAppG"
+  },
+  "930.31": {
+    "FR": "LACRE",
+    "DE": "UEG",
+    "IT": "LSgrI"
+  },
+  "933.0": {
+    "FR": "LPCo",
+    "DE": "BauPG",
+    "IT": "LProdC"
+  },
+  "933.01": {
+    "FR": "OPCo",
+    "DE": "BauPV",
+    "IT": "OProdC"
+  },
+  "934.21": {
+    "FR": "LEAC",
+    "DE": "BGRB",
+    "IT": "LIAC"
+  },
+  "935.01": {
+    "FR": "LPPS",
+    "DE": "BGMD",
+    "IT": "LDPS"
+  },
+  "935.011": {
+    "FR": "OPPS",
+    "DE": "VMD",
+    "IT": "ODPS"
+  },
+  "935.41": {
+    "FR": "LPSP",
+    "DE": "BPS",
+    "IT": "LPSP"
+  },
+  "935.411": {
+    "FR": "OPSP",
+    "DE": "VPS",
+    "IT": "OPSP"
+  },
+  "935.412": {
+    "FR": "OTPSP",
+    "DE": "VDPS",
+    "IT": "ODPSP"
+  },
+  "935.51": {
+    "FR": "LJAr",
+    "DE": "BGS",
+    "IT": "LGD"
+  },
+  "935.511": {
+    "FR": "OJAr",
+    "DE": "VGS",
+    "IT": "OGD"
+  },
+  "935.61": {
+    "FR": "LLCA",
+    "DE": "BGFA",
+    "IT": "LLCA"
+  },
+  "935.62": {
+    "FR": "LCBr",
+    "DE": "PAG",
+    "IT": "LCB"
+  },
+  "935.621": {
+    "FR": "OCBr",
+    "DE": "PAV",
+    "IT": "OCBr"
+  },
+  "935.81": {
+    "FR": "LPsy",
+    "DE": "PsyG",
+    "IT": "LPPsi"
+  },
+  "935.811": {
+    "FR": "OPsy",
+    "DE": "PsyBV",
+    "IT": "OPPsi"
+  },
+  "941.10": {
+    "FR": "LUMMP",
+    "DE": "WZG",
+    "IT": "LUMP"
+  },
+  "941.13": {
+    "FR": "LAMO",
+    "DE": "WHG",
+    "IT": "LAMO"
+  },
+  "941.20": {
+    "FR": "LMétr",
+    "DE": "MessG",
+    "IT": "LMetr"
+  },
+  "941.201": {
+    "FR": "OIMLo",
+    "DE": "LMmV",
+    "IT": "OSML"
+  },
+  "941.204": {
+    "FR": "ODqua",
+    "DE": "MeAV",
+    "IT": "OIQ"
+  },
+  "941.206": {
+    "FR": "OCMétr",
+    "DE": "ZMessV",
+    "IT": "OCMetr"
+  },
+  "941.210": {
+    "FR": "OIMes",
+    "DE": "MessMV",
+    "IT": "OStrM"
+  },
+  "941.212": {
+    "FR": "OILAE",
+    "DE": "VFlaW",
+    "IT": "OLDDA"
+  },
+  "941.231": {
+    "FR": "OIMTh",
+    "DE": "TMmV",
+    "IT": "OSMT"
+  },
+  "941.242": {
+    "FR": "OIGE",
+    "DE": "VAMV",
+    "IT": "OSGS"
+  },
+  "941.251": {
+    "FR": "OIMepe",
+    "DE": "EMmV",
+    "IT": "OSMisE"
+  },
+  "941.27": {
+    "FR": "LIFM",
+    "DE": "EIMG",
+    "IT": "LIFM"
+  },
+  "941.272": {
+    "FR": "OIFM",
+    "DE": "EIMV",
+    "IT": "OIFM"
+  },
+  "941.273": {
+    "FR": "OPers-METAS",
+    "DE": "PV-METAS",
+    "IT": "OPers-METAS"
+  },
+  "941.31": {
+    "FR": "LCMP",
+    "DE": "EMKG",
+    "IT": "LCMP"
+  },
+  "941.311": {
+    "FR": "OCMP",
+    "DE": "EMKV",
+    "IT": "OCMP"
+  },
+  "941.319": {
+    "FR": "OEmol-CMP",
+    "DE": "GebV-EMK",
+    "IT": "OEm-CMP"
+  },
+  "941.41": {
+    "FR": "LExpl",
+    "DE": "SprstG",
+    "IT": "LEspl"
+  },
+  "941.411": {
+    "FR": "OExpl",
+    "DE": "SprstV",
+    "IT": "OEspl"
+  },
+  "941.42": {
+    "FR": "LPSE",
+    "DE": "VSG",
+    "IT": "LPre"
+  },
+  "941.421": {
+    "FR": "OPSE",
+    "DE": "VVSG",
+    "IT": "OPreS"
+  },
+  "942.20": {
+    "FR": "LSPr",
+    "DE": "PüG",
+    "IT": "LSPr"
+  },
+  "942.211": {
+    "FR": "OIP",
+    "DE": "PBV",
+    "IT": "OIP"
+  },
+  "943.02": {
+    "FR": "LMI",
+    "DE": "BGBM",
+    "IT": "LMI"
+  },
+  "943.03": {
+    "FR": "SCSE",
+    "DE": "ZertES",
+    "IT": "FiEle"
+  },
+  "943.032": {
+    "FR": "OSCSE",
+    "DE": "VZertES",
+    "IT": "OFiEle"
+  },
+  "944.0": {
+    "FR": "LIC",
+    "DE": "KIG",
+    "IT": "LIC"
+  },
+  "944.022": {
+    "FR": "ODFou",
+    "DE": "PelzV",
+    "IT": "ODPell"
+  },
+  "946.10": {
+    "FR": "LASRE",
+    "DE": "SERVG",
+    "IT": "LARE"
+  },
+  "946.101": {
+    "FR": "OASRE",
+    "DE": "SERV-V",
+    "IT": "OARE"
+  },
+  "946.15": {
+    "FR": "OPCN-OCDE",
+    "DE": "NKPV-OECD",
+    "IT": "OPCN-OCSE"
+  },
+  "946.202": {
+    "FR": "LCB",
+    "DE": "GKG",
+    "IT": "LBDI"
+  },
+  "946.231": {
+    "FR": "LEmb",
+    "DE": "EmbG",
+    "IT": "LEmb"
+  },
+  "946.31": {
+    "FR": "OOr",
+    "DE": "VUB",
+    "IT": "OAO"
+  },
+  "946.311": {
+    "FR": "OOr-DEFR",
+    "DE": "VUB-WBF",
+    "IT": "OAO-DEFR"
+  },
+  "946.32": {
+    "FR": "ODPO",
+    "DE": "VAU",
+    "IT": "OAPO"
+  },
+  "946.39": {
+    "FR": "OROPD",
+    "DE": "VUZPE",
+    "IT": "OROPS"
+  },
+  "946.51": {
+    "FR": "LETC",
+    "DE": "THG",
+    "IT": "LOTC"
+  },
+  "946.511": {
+    "FR": "ON",
+    "DE": "NV",
+    "IT": "ON"
+  },
+  "946.512": {
+    "FR": "OAccD",
+    "DE": "AkkBV",
+    "IT": "OAccD"
+  },
+  "950.1": {
+    "FR": "LSFin",
+    "DE": "FIDLEG",
+    "IT": "LSerFi"
+  },
+  "950.11": {
+    "FR": "OSFin",
+    "DE": "FIDLEV",
+    "IT": "OSerFi"
+  },
+  "951.11": {
+    "FR": "LBN",
+    "DE": "NBG",
+    "IT": "LBN"
+  },
+  "951.131": {
+    "FR": "OBN",
+    "DE": "NBV",
+    "IT": "OBN"
+  },
+  "951.26": {
+    "FR": "LCaS-COVID-19",
+    "DE": "Covid-19-SBüG",
+    "IT": "LFiS-COVID-19"
+  },
+  "951.262": {
+    "FR": "OMCR 20",
+    "DE": "HFMV 20",
+    "IT": "OPCR 20"
+  },
+  "951.264": {
+    "FR": "OMCR 22",
+    "DE": "HFMV 22",
+    "IT": "OPCR 22"
+  },
+  "951.31": {
+    "FR": "LPCC",
+    "DE": "KAG",
+    "IT": "LICol"
+  },
+  "951.311": {
+    "FR": "OPCC",
+    "DE": "KKV",
+    "IT": "OICol"
+  },
+  "951.312": {
+    "FR": "OPC-FINMA",
+    "DE": "KKV-FINMA",
+    "IT": "OICol-FINMA"
+  },
+  "952.0": {
+    "FR": "LB",
+    "DE": "BankG",
+    "IT": "LBCR"
+  },
+  "952.02": {
+    "FR": "OB",
+    "DE": "BankV",
+    "IT": "OBCR"
+  },
+  "952.03": {
+    "FR": "OFR",
+    "DE": "ERV",
+    "IT": "OFoP"
+  },
+  "952.05": {
+    "FR": "OIB-FINMA",
+    "DE": "BIV-FINMA",
+    "IT": "OIB-FINMA"
+  },
+  "952.06": {
+    "FR": "OLiq",
+    "DE": "LiqV",
+    "IT": "OLiq"
+  },
+  "952.111": {
+    "FR": "OBE-FINMA",
+    "DE": "ABV-FINMA",
+    "IT": "OBE-FINMA"
+  },
+  "954.1": {
+    "FR": "LEFin",
+    "DE": "FINIG",
+    "IT": "LIsFi"
+  },
+  "954.11": {
+    "FR": "OEFin",
+    "DE": "FINIV",
+    "IT": "OIsFi"
+  },
+  "954.111": {
+    "FR": "OEFin-FINMA",
+    "DE": "FINIV-FINMA",
+    "IT": "OIsFi-FINMA"
+  },
+  "955.0": {
+    "FR": "LBA",
+    "DE": "GwG",
+    "IT": "LRD"
+  },
+  "955.01": {
+    "FR": "OBA",
+    "DE": "GwV",
+    "IT": "ORD"
+  },
+  "955.021": {
+    "FR": "OBA-CFMJ",
+    "DE": "GwV-ESBK",
+    "IT": "ORD-CFCG"
+  },
+  "955.022": {
+    "FR": "OBA-DFJP",
+    "DE": "GwV-EJPD",
+    "IT": "ORD-DFGP"
+  },
+  "955.023": {
+    "FR": "OBA-OFDF",
+    "DE": "GwV-BAZG",
+    "IT": "ORD-UDSC"
+  },
+  "955.23": {
+    "FR": "OBCBA",
+    "DE": "MGwV",
+    "IT": "OURD"
+  },
+  "956.1": {
+    "FR": "LFINMA",
+    "DE": "FINMAG",
+    "IT": "LFINMA"
+  },
+  "956.122": {
+    "FR": "Oém-FINMA",
+    "DE": "FINMA-GebV",
+    "IT": "Oem-FINMA"
+  },
+  "956.134": {
+    "FR": "OOS",
+    "DE": "AOV",
+    "IT": "OOV"
+  },
+  "956.161": {
+    "FR": "OA-FINMA",
+    "DE": "FINMA-PV",
+    "IT": "OA-FINMA"
+  },
+  "957.1": {
+    "FR": "LTI",
+    "DE": "BEG",
+    "IT": "LTCo"
+  },
+  "958.1": {
+    "FR": "LIMF",
+    "DE": "FinfraG",
+    "IT": "LInFi"
+  },
+  "958.11": {
+    "FR": "OIMF",
+    "DE": "FinfraV",
+    "IT": "OInFi"
+  },
+  "958.111": {
+    "FR": "OIMF-FINMA",
+    "DE": "FinfraV-FINMA",
+    "IT": "OInFi-FINMA"
+  },
+  "961.01": {
+    "FR": "LSA",
+    "DE": "VAG",
+    "IT": "LSA"
+  },
+  "961.011": {
+    "FR": "OS",
+    "DE": "AVO",
+    "IT": "OS"
+  },
+  "974.03": {
+    "FR": "OACata",
+    "DE": "VKA",
+    "IT": "OACata"
+  },
+  "431.09": {
+    "DE": "GebVO St"
+  },
+  "941.101": {
+    "DE": "MünzV",
+    "IT": "OMon"
+  },
+  "0.101": {
+    "FR": "CEDH",
+    "DE": "EMRK",
+    "IT": "CEDU"
+  }
+}

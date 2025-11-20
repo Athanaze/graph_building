@@ -1,0 +1,23 @@
+[package]
+name = "cartesian-law-analysis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+rayon = "1.10"
+regex = "1.11"
+once_cell = "1.20"
+crossbeam-channel = "0.5"
+parquet = "53"
+arrow = "53"
+ahash = "0.8"
+memmap2 = "0.9"
+csv = "1.3"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+strip = true
